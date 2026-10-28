@@ -1,3 +1,4 @@
 de07fdc8  # refunded 2026-10-25
 92fb2de7  # revoked, 2026-10-26
 b67a4813  # revoked, 2026-10-27
+44813942  # removed from /sales, 2026-10-28
